@@ -1,4 +1,4 @@
-import { User } from './06/06-callbacks'
+import { User } from './06-callback/06-callbacks'
 import './App.css'
 
 function App() {
